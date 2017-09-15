@@ -1,10 +1,10 @@
 # Query-Search-using-TF-IDF-vectors-and-cosine-similarity
 Analyzed a corpus containing 30 .txt files and retrieved the most relevant document for a given query using Python and NLTK
 
-#Dataset:
+# Dataset:
 presidential_debates folder contains a collection of general election presidential debates from 1960 to 2012. Each of the 30 files contains the transcript of a debate and is named by the date of the debate.
 
-#Steps:
+# Steps:
 1) Read the 30 .txt files.
 2) Tokenized the contents of the files.
 3) Performed stopword removal on the obtained tokens.
